@@ -1,0 +1,97 @@
+Filesystem volume name:   <none>
+Last mounted on:          /home/dev/bean
+Filesystem UUID:          8d49fc69-6426-4064-a5b9-cb6e3ccad011
+Filesystem magic number:  0xEF53
+Filesystem revision #:    1 (dynamic)
+Filesystem features:      ext_attr resize_inode dir_index filetype sparse_super
+Filesystem flags:         signed_directory_hash 
+Default mount options:    user_xattr acl
+Filesystem state:         not clean
+Errors behavior:          Continue
+Filesystem OS type:       Linux
+Inode count:              16384
+Block count:              65536
+Reserved block count:     3276
+Free blocks:              62172
+Free inodes:              16373
+First block:              1
+Block size:               1024
+Fragment size:            1024
+Reserved GDT blocks:      255
+Blocks per group:         8192
+Fragments per group:      8192
+Inodes per group:         2048
+Inode blocks per group:   256
+Filesystem created:       Fri Feb 21 11:21:36 2020
+Last mount time:          Fri Feb 21 11:24:39 2020
+Last write time:          Fri Feb 21 11:24:39 2020
+Mount count:              1
+Maximum mount count:      -1
+Last checked:             Fri Feb 21 11:21:36 2020
+Check interval:           0 (<none>)
+Reserved blocks uid:      0 (user root)
+Reserved blocks gid:      0 (group root)
+First inode:              11
+Inode size:	          128
+Default directory hash:   half_md4
+Directory Hash Seed:      d5b75441-d5db-41ea-b9be-f6d74553afdd
+
+
+Group 0: (Blocks 1-8192)
+  主 superblock at 1, Group descriptors at 2-2
+  保留的GDT块位于 3-257
+  Block bitmap at 258 (+257), Inode bitmap at 259 (+258)
+  Inode表位于 260-515 (+259)
+  7672 free blocks, 2036 free inodes, 1 directories
+  可用块数: 517-528, 531-1024, 1027-8192
+  可用inode数: 13-2048
+Group 1: (Blocks 8193-16384)
+  备份 superblock at 8193, Group descriptors at 8194-8194
+  保留的GDT块位于 8195-8449
+  Block bitmap at 8450 (+257), Inode bitmap at 8451 (+258)
+  Inode表位于 8452-8707 (+259)
+  7677 free blocks, 2048 free inodes, 0 directories
+  可用块数: 8708-16384
+  可用inode数: 2049-4096
+Group 2: (Blocks 16385-24576)
+  Block bitmap at 16385 (+0), Inode bitmap at 16386 (+1)
+  Inode表位于 16387-16642 (+2)
+  7932 free blocks, 2046 free inodes, 1 directories
+  可用块数: 16644-16896, 16898-24576
+  可用inode数: 4099-6144
+Group 3: (Blocks 24577-32768)
+  备份 superblock at 24577, Group descriptors at 24578-24578
+  保留的GDT块位于 24579-24833
+  Block bitmap at 24834 (+257), Inode bitmap at 24835 (+258)
+  Inode表位于 24836-25091 (+259)
+  7677 free blocks, 2048 free inodes, 0 directories
+  可用块数: 25092-32768
+  可用inode数: 6145-8192
+Group 4: (Blocks 32769-40960)
+  Block bitmap at 32769 (+0), Inode bitmap at 32770 (+1)
+  Inode表位于 32771-33026 (+2)
+  7934 free blocks, 2048 free inodes, 0 directories
+  可用块数: 33027-40960
+  可用inode数: 8193-10240
+Group 5: (Blocks 40961-49152)
+  备份 superblock at 40961, Group descriptors at 40962-40962
+  保留的GDT块位于 40963-41217
+  Block bitmap at 41218 (+257), Inode bitmap at 41219 (+258)
+  Inode表位于 41220-41475 (+259)
+  7677 free blocks, 2048 free inodes, 0 directories
+  可用块数: 41476-49152
+  可用inode数: 10241-12288
+Group 6: (Blocks 49153-57344)
+  Block bitmap at 49153 (+0), Inode bitmap at 49154 (+1)
+  Inode表位于 49155-49410 (+2)
+  7934 free blocks, 2048 free inodes, 0 directories
+  可用块数: 49411-57344
+  可用inode数: 12289-14336
+Group 7: (Blocks 57345-65535)
+  备份 superblock at 57345, Group descriptors at 57346-57346
+  保留的GDT块位于 57347-57601
+  Block bitmap at 57602 (+257), Inode bitmap at 57603 (+258)
+  Inode表位于 57604-57859 (+259)
+  7676 free blocks, 2048 free inodes, 0 directories
+  可用块数: 57860-65535
+  可用inode数: 14337-16384
